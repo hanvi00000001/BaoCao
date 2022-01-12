@@ -1,0 +1,9 @@
+D:\WinForm\ViThiThuHang_2119110214\ViThiThuHang_2119110214\bin\Debug\ViThiThuHang_2119110214.exe.config
+D:\WinForm\ViThiThuHang_2119110214\ViThiThuHang_2119110214\bin\Debug\ViThiThuHang_2119110214.exe
+D:\WinForm\ViThiThuHang_2119110214\ViThiThuHang_2119110214\bin\Debug\ViThiThuHang_2119110214.pdb
+D:\WinForm\ViThiThuHang_2119110214\ViThiThuHang_2119110214\obj\Debug\ViThiThuHang_2119110214.Form1.resources
+D:\WinForm\ViThiThuHang_2119110214\ViThiThuHang_2119110214\obj\Debug\ViThiThuHang_2119110214.Properties.Resources.resources
+D:\WinForm\ViThiThuHang_2119110214\ViThiThuHang_2119110214\obj\Debug\ViThiThuHang_2119110214.csproj.GenerateResource.cache
+D:\WinForm\ViThiThuHang_2119110214\ViThiThuHang_2119110214\obj\Debug\ViThiThuHang_2119110214.csproj.CoreCompileInputs.cache
+D:\WinForm\ViThiThuHang_2119110214\ViThiThuHang_2119110214\obj\Debug\ViThiThuHang_2119110214.exe
+D:\WinForm\ViThiThuHang_2119110214\ViThiThuHang_2119110214\obj\Debug\ViThiThuHang_2119110214.pdb
