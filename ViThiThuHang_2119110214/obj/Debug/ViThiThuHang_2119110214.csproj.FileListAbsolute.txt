@@ -7,3 +7,4 @@ D:\WinForm\ViThiThuHang_2119110214\ViThiThuHang_2119110214\obj\Debug\ViThiThuHan
 D:\WinForm\ViThiThuHang_2119110214\ViThiThuHang_2119110214\obj\Debug\ViThiThuHang_2119110214.csproj.CoreCompileInputs.cache
 D:\WinForm\ViThiThuHang_2119110214\ViThiThuHang_2119110214\obj\Debug\ViThiThuHang_2119110214.exe
 D:\WinForm\ViThiThuHang_2119110214\ViThiThuHang_2119110214\obj\Debug\ViThiThuHang_2119110214.pdb
+D:\WinForm\ViThiThuHang_2119110214\ViThiThuHang_2119110214\obj\Debug\ViThiThuHang_2119110214.csproj.AssemblyReference.cache
