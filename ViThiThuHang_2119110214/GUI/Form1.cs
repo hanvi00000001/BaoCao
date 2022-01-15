@@ -86,8 +86,8 @@ namespace ViThiThuHang_2119110214
             empl.DateBirth = DateTime.Parse(dtBirth.Value.Date.ToString());
             empl.Gender = tbGender.Text;
             empl.PlaceBirth = tbPlaceBirth.Text;
-
-            EmployeeBAL.DeletEmployeeBEL(empl);
+            empl.Department = (DepartmemtBEL)cbDepartment.SelectedItem;
+            employeeBAL.DeleteEmployee(empl);
             int idx = dgvNhanVien.CurrentCell.RowIndex;
             dgvNhanVien.Rows.RemoveAt(idx);
         }
@@ -105,7 +105,7 @@ namespace ViThiThuHang_2119110214
                 empl.Gender = tbGender.Text;
                 empl.PlaceBirth = tbPlaceBirth.Text;
                 empl.Department = (DepartmemtBEL)cbDepartment.SelectedItem;
-                EmployeeBAL.EditEmployeeBEL(empl);
+                employeeBAL.EditEmployee(empl);
                 row.Cells[0].Value = empl.IdEmpoyee;
                 row.Cells[1].Value = empl.Name;
                 row.Cells[2].Value = empl.DateBirth;

@@ -8,3 +8,15 @@ D:\WinForm\ViThiThuHang_2119110214\ViThiThuHang_2119110214\obj\Debug\ViThiThuHan
 D:\WinForm\ViThiThuHang_2119110214\ViThiThuHang_2119110214\obj\Debug\ViThiThuHang_2119110214.exe
 D:\WinForm\ViThiThuHang_2119110214\ViThiThuHang_2119110214\obj\Debug\ViThiThuHang_2119110214.pdb
 D:\WinForm\ViThiThuHang_2119110214\ViThiThuHang_2119110214\obj\Debug\ViThiThuHang_2119110214.csproj.AssemblyReference.cache
+D:\WinForm\ViThiThuHang_2119110214\ViThiThuHang_2119110214\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\WinForm\ViThiThuHang_2119110214\ViThiThuHang_2119110214\bin\Debug\Microsoft.Owin.dll
+D:\WinForm\ViThiThuHang_2119110214\ViThiThuHang_2119110214\bin\Debug\Microsoft.Owin.Security.dll
+D:\WinForm\ViThiThuHang_2119110214\ViThiThuHang_2119110214\bin\Debug\Newtonsoft.Json.dll
+D:\WinForm\ViThiThuHang_2119110214\ViThiThuHang_2119110214\bin\Debug\Owin.dll
+D:\WinForm\ViThiThuHang_2119110214\ViThiThuHang_2119110214\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+D:\WinForm\ViThiThuHang_2119110214\ViThiThuHang_2119110214\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\WinForm\ViThiThuHang_2119110214\ViThiThuHang_2119110214\bin\Debug\Microsoft.Owin.xml
+D:\WinForm\ViThiThuHang_2119110214\ViThiThuHang_2119110214\bin\Debug\Microsoft.Owin.Security.xml
+D:\WinForm\ViThiThuHang_2119110214\ViThiThuHang_2119110214\bin\Debug\Newtonsoft.Json.xml
+D:\WinForm\ViThiThuHang_2119110214\ViThiThuHang_2119110214\obj\Debug\ViThiThuHang_2119110214.csproj.CopyComplete
+D:\WinForm\ViThiThuHang_2119110214\ViThiThuHang_2119110214\obj\Debug\ViThiThuHang_2119110214.login.resources
